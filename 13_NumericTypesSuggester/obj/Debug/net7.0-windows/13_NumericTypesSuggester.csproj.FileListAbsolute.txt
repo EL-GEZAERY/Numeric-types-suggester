@@ -1,0 +1,16 @@
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\bin\Debug\net7.0-windows\13_NumericTypesSuggester.exe
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\bin\Debug\net7.0-windows\13_NumericTypesSuggester.deps.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\bin\Debug\net7.0-windows\13_NumericTypesSuggester.runtimeconfig.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\bin\Debug\net7.0-windows\13_NumericTypesSuggester.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\bin\Debug\net7.0-windows\13_NumericTypesSuggester.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\NumericTypesSuggester.MainForm.resources
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.csproj.GenerateResource.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.GeneratedMSBuildEditorConfig.editorconfig
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.AssemblyInfoInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.AssemblyInfo.cs
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.csproj.CoreCompileInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\refint\13_NumericTypesSuggester.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\13_NumericTypesSuggester.genruntimeconfig.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\13_NumericTypesSuggester\obj\Debug\net7.0-windows\ref\13_NumericTypesSuggester.dll
